@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <header className="App-header">
         Hello
-        <a href="#" className="btn btn-primary">
+        <a href="/" className="btn btn-primary">
           Search
         </a>
       </header>
